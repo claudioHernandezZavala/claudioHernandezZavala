@@ -1,6 +1,7 @@
 ### Hi there 👋, My name is Claudio Hernandez
 #### I am software developer
-![I am software developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![wallhaven-gpddxd_1920x1080](https://github.com/claudioHernandezZavala/claudioHernandezZavala/assets/101302200/39e5cb46-38ed-430a-9870-21a43c23cb93)
+
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
