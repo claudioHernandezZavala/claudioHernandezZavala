@@ -17,7 +17,10 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=claudioHernandezZavala&limit=5&theme=dark&combine_all_yearly_contributions=true)
-![Total Repositories](https://img.shields.io/badge/dynamic/json?color=blue&label=Total%20Repositories&query=public_repos&url=https://api.github.com/users/claudioHernandezZavala)
+### Total repositories
+![Total Repositories](https://img.shields.io/badge/dynamic/json?color=0A66C2&label=Repositories&query=public_repos&url=https://api.github.com/users/claudioHernandezZavala)
+### Total contributions
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=claudioHernandezZavala&theme=tokyo-night&hide_border=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=claudioHernandezZavala&icon=0&color=0)](https://visitcount.itsvg.in)
 
