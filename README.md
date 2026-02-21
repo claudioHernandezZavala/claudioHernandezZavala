@@ -25,7 +25,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=claudioHernandezZavala&theme=github_dark)
 
 ### 🐍 Contribution Snake
-![snake gif](https://github.com/claudioHernandezZavala/claudioHernandezZavala/blob/output/github-contribution-grid-snake.svg)
+![snake](https://github.com/claudioHernandezZavala/claudioHernandezZavala/blob/output/github-contribution-grid-snake.svg)
 ### 📈  Metrics
 ![Repositories](https://img.shields.io/badge/dynamic/json?color=0A66C2&label=Repositories&query=public_repos&url=https://api.github.com/users/claudioHernandezZavala&style=for-the-badge)
 
