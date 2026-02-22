@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Locus NoteBook<br><br>🌱 I’m currently learning React, node, AWS<br><br>👨‍💻 All of my projects are available at https://github.com/claudioHernandezZavala<br><br>📫 How to reach me claudioherza@gmail.com<br><br>⚡ Fun fact I have abs in my abs
-
+<br><br>🌐 My website : https://claudiohernandez.dev/
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/claudiox567) 
